@@ -1,0 +1,41 @@
+body {
+	padding: 60px 85px;
+}
+
+.thumbnail-img {
+	border: 1px;
+}
+
+.thumbnail {
+	min-height: 540px;
+}
+
+.carousel-quote {
+	position: absolute;;
+	top: 50px;
+	left: 200px;
+	background: rgba(34,34,34,.5);
+	opacity: 5px;
+	color: white;
+	padding: 15px;
+	width: 200px;
+	font-size: 20px;
+}
+
+.float-right {
+	float: right;
+	margin-right: 10px;
+}
+
+div.clear {
+	clear: both;
+}
+
+.tiles {
+	width: 360px;
+	background: rgba(34,34,34,.1);
+	padding: 10px;
+	margin: 5px;
+	float: left;
+	min-height: 340px;
+}

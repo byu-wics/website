@@ -1,0 +1,18 @@
+<carousel interval="5000">
+  <slide ng-repeat="slide in slides" active="slide.active">
+    <img ng-src="{{slide.img_url}}" style="margin:auto;">
+    <p class="carousel-quote">"{{slide.text}}<br><br>I am a Programmer."</p>
+    <div class="carousel-caption">
+      <h4>{{slide.title}}</h4>
+    </div>
+  </slide>
+</carousel>
+
+<div>
+  <h2>Mission</h2>
+  <ul ng-repeat="bullet in mission_bullets">
+    <li>{{bullet}}</li>
+  </ul>
+</div>
+
+<div class="clear"></div>

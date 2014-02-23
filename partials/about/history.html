@@ -1,0 +1,12 @@
+<h2>{{content.title}}</h2>
+<div ng-repeat="semester in semesters">
+	<h3>{{semester.title}}</h3>
+	<div class="tiles" ng-repeat="event in semester.events">
+		<h4>{{event.title}}</h4>
+		<p><strong>Date: </strong>{{event.date}}</p>
+		<p><strong>Time: </strong>{{event.time}}</p>
+		<p><strong>Location: </strong>{{event.location}}</p>
+		<p><strong>Description: </strong>{{event.description}}</p>
+	</div>
+	<div class="clear"></div>
+</div>

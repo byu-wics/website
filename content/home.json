@@ -1,0 +1,34 @@
+{
+	"slides": [ 
+		{
+			"img_url" : "img/home/jillian.jpg",
+			"title" : "Jillian",
+			"text" : "I love that I am doing something challenging. There are so many opportunities, especially for women."
+		}, 
+		{
+			"img_url" : "img/home/alicia.jpg",
+			"title" : "Alicia",
+			"text" : "There's no better feeling than spending time on something, struggling through it, and then seeing it work. It's pretty awesome."
+		}, 
+		{
+			"img_url" : "img/home/krista.jpg",
+			"title" : "Krista",
+			"text" : "I'm here because I know I can make a difference. Programming is a tool that can do amazing things."
+		}, 
+		{
+			"img_url" : "img/home/christine.jpg",
+			"title" : "Christine",
+			"text" : "I've been pushed to do things I didn't think I could, and I've learned that I can do anything I set my mind to."
+		}, 
+		{
+			"img_url" : "img/home/alyssa.jpg",
+			"title" : "Alyssa",
+			"text" : "I started college with no experience programming. Now, I love the fulfillment of creating something from start to finish. I know from experience that anyone can program."
+		}
+	],
+	"mission_bullets": [
+		"increase the number of women in the computer science department at BYU",
+		"help women overcome challenges specific to women in technical fields based on research",
+		"provide women with positive female role models in the computer science field"
+	]
+}
