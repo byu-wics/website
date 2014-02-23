@@ -14,6 +14,12 @@
 			"link": "https://scholarships.swe.org/applications/login.asp"
 		},
 		{
+			"title":"BYU Computer Science Department",
+			"description": "While these scholarships are not specifically for women, they are worth applying to. The website lists scholarships from the college (of physical and mathematical sciences), the university, and external sources.",
+			"img_url":"img/resources/scholarships/byu.PNG",
+			"link": "https://cs.byu.edu/scholarship-and-grant-opportunities"
+		},
+		{
 			"title":"Anita Borg Scholarship",
 			"description":"Google is proud to honor Anita's memory and support women in technology with the 2013 Google Anita Borg Memorial Scholarship. Google hopes to encourage women to excel in computing and technology and become active role models and leaders in the field. Applicants must be a female student entering her senior year of undergraduate study or be enrolled in a graduate program and maintain a cululative GPA of 3.5. Google Anita Borg Scholarship recipients will each receive a $10,000 award.",
 			"img_url":"img/resources/scholarships/anita-borg.jpg",
