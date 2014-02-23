@@ -5,6 +5,7 @@ var app = angular.module('wics', ['ui.directives', 'ui.bootstrap']).
       when('/home', {templateUrl: 'partials/home.html',   controller: HomeCtrl}).
       
       //about section
+      when('/cs', {templateUrl: 'partials/about/cs.html'}).
       when('/mission', {templateUrl: 'partials/about/mission.html',   controller: MissionCtrl}).
       when('/history', {templateUrl: 'partials/about/history.html',   controller: HistoryCtrl}).
       when('/contributions', {templateUrl: 'partials/about/contributions.html',   controller: ContributionsCtrl}).
