@@ -1,0 +1,27 @@
+{
+	"title" : "Contribute",
+	"introduction" : "We greatly appreciate the support of companies that help us to increase diversity within computer science. We express our deep appreciation to those organizations who have helped us in the past. Your organization can support us in the following ways:",
+	"methods" : [
+		{
+			"title" : "Send a Spearker",
+			"description" : "Your ogranization may send a female developer from your organization to speak to our club and her experience as a woman. Speakers typically have experience dealing with diversity in the work place and have strong public speaking skills. If you have a woman at your company with these qualities who would be interested in speaking to our club, please email us so we can invite her. This helps students become more familiar with your organization.",
+			"cost" : "FREE"
+		},
+		{
+			"title" : "Sponsor an Event",
+			"description" : "This involves providing pizza and provides your organization the opportunity to do a 5-8 minute presentation about your company and raffle off prizes if you so choose.",
+			"cost" : "Determined by how much money you choose to spend on the food and prizes."
+		},
+		{
+			"title" : "Donate Financial Support",
+			"description": "Your company may donate directly to our club. If you choose to donate, we will put our logo on the back of our club t-shirt. This allows your company to have a more lasting relationship with our club and our members.",
+			"cost" : "$250"
+		},
+		{
+			"title" : "Send a Student to the Grace Hopper Conference",
+			"description" : "The Grace Hopper Women in Computing Celebration is a conference that supports women in technology fields. We send women in the beginning of the computer major or who are considering majoring in computer science. We hope that attendance at the conference encourages the women to continue in the major and that the women will form a relation with the contributing company. Contributing companies will be invited to attend and thanked at our Grace Hopper event where the attendees speak about their experience at the conference.",
+			"cost" : "$1000/student"
+		}
+	],
+	"conclusion" : "If you are interested in supporting our club in any of the ways listed above please email us at women.cs.byu at gmail.com, and we will provide you with more information."
+}

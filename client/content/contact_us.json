@@ -1,0 +1,28 @@
+{
+	"leadership" : [
+		{
+			"title" : "President",
+			"name" : "Christine Kendall"
+		},
+		{
+			"title" : "Secretary",
+			"name" : "Alyssa Meservy"
+		},
+		{
+			"title" : "Treasurer",
+			"name" : "Alicia Crowder"
+		},
+		{
+			"title" : "Publicity",
+			"name" : "Chloe Sumsion"
+		},
+		{
+			"title" : "Activities Coordinator",
+			"name" : "Jessica Ampuero"
+		},
+		{
+			"title" : "Tech Manager",
+			"name" : "Scott Blanch"
+		}
+	]
+}
