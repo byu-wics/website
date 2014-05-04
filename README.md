@@ -5,7 +5,7 @@ in production/live site only runs code in the "client" folder.
 
 The server code allows for ease in development. The client code must be run from a server. This is because
 although the code on the WiCS site is only browser side code, some calls in angularjs must
-be called through an http type protocol. If this is not the case the pages are not rendered properly due to the Cross-Site Scripting errors. Thus the client codemust be running on a server of some type. 
+be called through an http type protocol. If this is not the case the pages are not rendered properly due to Cross-Site Scripting security errors. (The reason for this is too long to explain for this article. If you truly want to understand the reason for this there is adequate information online to research answer this.) Thus the client code must be running on a server of some type. 
 
 One type of server that the code can run on is through a WAMP/LAMP server. 
 
