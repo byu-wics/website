@@ -2,23 +2,27 @@
 	"leadership" : [
 		{
 			"title" : "President",
-			"name" : "Christine Kendall"
+			"name" : "Rachel Trainor"
 		},
 		{
-			"title" : "Secretary",
-			"name" : "Alyssa Meservy"
-		},
-		{
-			"title" : "Treasurer",
-			"name" : "Alicia Crowder"
-		},
-		{
-			"title" : "Publicity",
-			"name" : "Chloe Sumsion"
+			"title" : "Vice President",
+			"name" : "Amanda Fisher"
 		},
 		{
 			"title" : "Activities Coordinator",
-			"name" : "Jessica Ampuero"
+			"name" : "Rebeca Hernandez Tellez"
+		},
+		{
+			"title" : "Activities Coordinator",
+			"name" : "Alicia Crowder"
+		},
+		{
+			"title" : "Treasurer",
+			"name" : "Candice Davis"
+		},
+		{
+			"title" : "Publicity",
+			"name" : "Susannah Jones"
 		},
 		{
 			"title" : "Tech Manager",
